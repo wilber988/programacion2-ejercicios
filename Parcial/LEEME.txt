@@ -1,0 +1,10 @@
+Envio dos archivos uno de ellos es una imagen para poder visualisar mas facil
+y rápido solo que en la imagen no se muestra bien las relaciones de la parte
+de avajo por ello le adjunto el archivo original solo que esta con la extecion
+".dia" para ello tendra que tener el Programa DIA para poder visualizarlo
+
+dentro de ambos archivos esta escrito mi nombre y Carnet, pero por            
+cualquier cosa se los escribo en este documento.
+
+Nombre: Wilber Fernando Ramos Gómez
+Carnet: RG01132983
