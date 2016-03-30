@@ -1,0 +1,156 @@
+﻿body
+{
+  background-image:url('imagen1.jpg'); 
+  background-color:white;
+} 
+
+#contenedor
+{
+    
+    max-width:1280px;
+    padding: 0;
+    text-align:center;
+    width:95%;
+}
+
+nav
+{ 
+  width:15%;
+}
+
+nav
+{    
+  display:inline-block;
+  margin:0.25em auto;  
+  max-width:1280px;
+  min-height:100px;
+  padding:0.15em;   
+  vertical-align:top;
+}
+
+#ppal
+{
+  background-color:white;
+  width:60%;
+  text-align:left;
+  display:inline-block;
+  
+  max-width:1280px;
+  min-height:100px;
+  
+  
+} 
+
+
+h1
+{
+  text-align:center;
+  font-family:Helvetica;
+  color:white;
+  font-size:3.5em;
+}
+
+h2
+{
+  font-family:Helvetica;
+  text-align:center;
+  color:#3DBA0B;
+  font-size:2em;
+}
+
+input
+{
+  font-family:Helvetica;
+  margin-left:0.50em;
+  margin-right:0.50em;
+  margin-top: 1em;
+  margin-bottom: auto;
+}
+
+p
+{  
+  color:black;
+  text-align:justify;
+  font-family:Helvetica;
+  margin-left:0.50em;
+  margin-right:0.50em;
+  margin-top: 0.50em;
+  margin-bottom: 0.50em;
+}
+
+img
+{
+  width:20em;
+  height:20em;
+  margin-top:1em;
+  margin-left:1.5em;
+  margin-right:1.5em;
+  float:left;
+  max-width:1280px;
+}
+
+/*Fondo de título h1*/
+#rcorners1 
+{
+    border-radius:3em;
+    background:black;
+    margin:0.5em auto;
+    max-width:1280px;
+    padding:0.10em;
+    opacity:0.6;
+}
+
+/*MENÚ*/
+#principal
+{
+  background-color:white;
+  list-style-type:none;
+  padding:0em 0em 0em 0em;
+  font-family:Helvetica;  
+  text-align:center;  
+  margin:0.25em auto;
+  max-width:1280px;
+  min-width:35px;
+}
+
+.bullet
+{
+  padding:0.3em;
+  border-top: 0.2em solid #3DBA0B;
+  border-left: 0.2em solid black;
+  border-right: 0.2em solid black;
+  border-bottom: 0.2em solid black;
+  max-width:1280px;
+}
+
+a:link
+{  
+  font-size:2em;
+  color:#3DBA0B;
+}
+
+a:visited
+{
+  font-size:2em;
+  color:gray;
+}
+
+a:hover
+{
+  font-size:2em;
+  color:#00CDFF;
+}
+
+@media (max-width: 600px)
+{
+    nav
+  { 
+    width:95%;
+  }
+
+  img
+  {
+    width:10em;
+    height:10em;
+  }  
+}
